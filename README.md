@@ -2,10 +2,10 @@
 
 https://denishker.github.io/ma1805-mini-portfolio/
 
-[01.Drawing](01.Drawing/index.html)
+[01. Drawing](./01%20Drawing/index.html)
 
-[02.Movement](01.Movement/index.html)
+[02. Movement](./02-Movement/index.html)
 
-[03.Multiples](01.Multiples/index.html)
+[03. Multiples](./03-Multiples/index.html)
 
-[04.Media](01.Media/index.html)
+[04. Media](./04-Media/index.html)
