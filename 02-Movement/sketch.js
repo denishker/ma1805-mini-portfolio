@@ -38,4 +38,14 @@ fill(0);
   ellipse(200, 145, i, 15);
 
 i = i+1;
+
+// SnowmAns scraf (bottom)
+  fill(200, 40, 40)
+  noStroke();
+  rect(210, 193, 25, 70, 4);
+
+  //SNowmans Scraf (top)
+  fill(200,40,40)
+  noStroke();
+  rect(145, 173, 110, 25, 10);
 }
